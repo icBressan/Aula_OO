@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/M.%20P.%20Projetos/Trabalho%20Final%20-%20Padrões%20de%20Projeto/TrabalhoFinal/src/FactoryMethod/QuartoLuxo.java</file>
+            <file>file:/E:/M.%20P.%20Projetos/Trabalho%20Final%20-%20Padrões%20de%20Projeto/TrabalhoFinal/src/Singleton/GerenciadorReservas.java</file>
+            <file>file:/E:/M.%20P.%20Projetos/Trabalho%20Final%20-%20Padrões%20de%20Projeto/TrabalhoFinal/src/Main/Principal.java</file>
+            <file>file:/E:/M.%20P.%20Projetos/Trabalho%20Final%20-%20Padrões%20de%20Projeto/TrabalhoFinal/src/FactoryMethod/FabricaQuartoLuxo.java</file>
+            <file>file:/E:/M.%20P.%20Projetos/Trabalho%20Final%20-%20Padrões%20de%20Projeto/TrabalhoFinal/src/AbstractFactory/FabricaServicos.java</file>
+            <file>file:/E:/M.%20P.%20Projetos/Trabalho%20Final%20-%20Padrões%20de%20Projeto/TrabalhoFinal/src/AbstractFactory/FabricaServicoPremium.java</file>
+            <file>file:/E:/M.%20P.%20Projetos/Trabalho%20Final%20-%20Padrões%20de%20Projeto/TrabalhoFinal/src/FactoryMethod/Quarto.java</file>
+            <file>file:/E:/M.%20P.%20Projetos/Trabalho%20Final%20-%20Padrões%20de%20Projeto/TrabalhoFinal/src/AbstractFactory/FabricaServicoEconomico.java</file>
+            <file>file:/E:/M.%20P.%20Projetos/Trabalho%20Final%20-%20Padrões%20de%20Projeto/TrabalhoFinal/src/Builder/ReservaBuilder.java</file>
+            <file>file:/E:/M.%20P.%20Projetos/Trabalho%20Final%20-%20Padrões%20de%20Projeto/TrabalhoFinal/src/AbstractFactory/Servico.java</file>
+            <file>file:/E:/M.%20P.%20Projetos/Trabalho%20Final%20-%20Padrões%20de%20Projeto/TrabalhoFinal/src/FactoryMethod/FabricaQuarto.java</file>
+            <file>file:/E:/M.%20P.%20Projetos/Trabalho%20Final%20-%20Padrões%20de%20Projeto/TrabalhoFinal/src/Builder/Reserva.java</file>
+        </group>
+    </open-files>
+</project-private>
